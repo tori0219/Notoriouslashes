@@ -2,7 +2,7 @@
 layout: post
 title: Save The Date
 subtitle: Schedule your appointment
-cover-img: /assets/img/path.jpg
+cover-img: lash.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]

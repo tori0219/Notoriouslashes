@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Notorious Lash Art
-subtitle: Photo Lounge
+title: Photo Lounge
+subtitle: Client Photos
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
